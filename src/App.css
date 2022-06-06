@@ -1,0 +1,75 @@
+
+body {
+    background: url('https://wallpaper.dog/large/526594.jpg');
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.1rem;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    
+    
+   }
+.App{
+    background-color: #668ea9ae;
+    width: 350px;
+    height: 380px;
+    color: rgba(140, 85, 158, 0.776);
+    text-align: center;
+    border-radius: 3%;
+    border: solid 2px white;
+    
+    
+    
+    
+    }
+
+.ubi{
+    padding-right: 20px;
+    color:rgba(29, 54, 115, 0.928);
+}
+.ali-center{
+  text-align: start; 
+  margin-left: 90px; 
+  padding-top: 30px;
+  
+}
+.btn-55 {
+    /* display: block; */
+    box-sizing: border-box;
+    padding: 10px 35px;
+    border-radius: 999px;
+  
+    position: relative;
+    overflow: hidden;
+  
+    font-weight: 900;
+    text-transform: uppercase;
+    border-color: rgb(148, 201, 217);
+    color: white;
+    background: linear-gradient(to right, rgb(76, 105, 152), rgb(217, 148, 148));
+    cursor: pointer;
+  }
+  
+  .btn-55 span {
+    position: absolute;
+    inset: 5px;
+  
+    display: grid;
+    place-items: center;
+  
+    border-radius: 999px;
+  
+    color: white;
+    background: rgb(29, 55, 59);
+    transition: background 0.3s;
+    
+  }
+  .icon{
+      width: 25%;
+  }
+  
+
+   
+
